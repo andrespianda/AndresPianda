@@ -1,7 +1,7 @@
 ### Mi nombre es Andres Esteban Pianda 👋
 
 
-Trabajo en una Clinica de alta complejidad de la Ciudad de Cali me desempeño como Analista de Informacion y soy estudiante de Tecnologia en sistemas de Informacion en la Universidad SANTIAGO DE CALI, muy interesado en aprender lenguajes de programacion y aunque es muy dificil lograrlo, con esfuerzo creo que si se puede.
+Trabajo en una Clínica de alta complejidad de la Ciudad de Cali me desempeño como Analista de Información y soy estudiante de Tecnología en sistemas de Información en la Universidad SANTIAGO DE CALI, muy interesado en aprender lenguajes de programación y aunque es muy difícil lograrlo, con esfuerzo creo que si se puede.
 
 ### E-mail: andres.pianda00@usc.edu.co 
 
