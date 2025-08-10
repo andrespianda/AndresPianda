@@ -1,9 +1,9 @@
 ### Mi nombre es Andres Esteban Pianda 👋
 
 
-Trabajo en una Clínica de alta complejidad de la Ciudad de Cali me desempeño como Analista de Información y soy estudiante de Tecnología en sistemas de Información en la Universidad SANTIAGO DE CALI, muy interesado en aprender lenguajes de programación y aunque es muy difícil lograrlo, con esfuerzo creo que si se puede.
+Trabajo en una Clínica de alta complejidad de la Ciudad de Cali me desempeño como Analista de Información y soy estudiante de Tecnología en sistemas de Información en la Universidad SANTIAGO DE CALI, muy interesado en aprender lenguajes de programación y orientado a cumplir objetivos .
 
-### E-mail: esteban.labrada00@gmial.com 
+### E-mail: esteban.labrada00@gmail.com 
 
 <!--
 **andrespianda/AndresPianda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
