@@ -39,9 +39,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight&hide_border=true)  
-![Streak](https://streak-stats.demolab.com?user=tuusuario&theme=tokyonight&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrespianda&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrespianda&layout=compact&theme=tokyonight&hide_border=true)  
+![Streak](https://streak-stats.demolab.com?user=andrespianda&theme=tokyonight&hide_border=true)  
 
 </div>
 
