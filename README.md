@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mí
 - 🎯 Experiencia en **análisis, modelado y gestión de datos** (SQL, Excel avanzado, Power BI).  
-- 🌐 Desarrollo con **JavaScript (React, Node.js, Vite, Angular)**.  
+- 🌐 Desarrollo con **JavaScript (React, Node.js, Vite, express)**.  
 - 🏥 Experiencia en **sector salud** (normativas, gestión de datos clínicos, interoperabilidad).  
 - 📊 Interés en **Business Intelligence, Data Analytics y Big Data**.  
 - 🤝 Colaborativo, autodidacta y apasionado por crear soluciones con impacto real.  
